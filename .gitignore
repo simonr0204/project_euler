@@ -2,5 +2,5 @@
 *
 
 # But not these files...
-!project_euler.ipynb
+!euler.ipynb
 !.gitignore
